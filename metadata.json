@@ -1,0 +1,6 @@
+{
+  "name": "Chronosynth",
+  "description": "Design alternate frequency-driven clocks with custom hours per day, minutes per hour, and harmonic visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

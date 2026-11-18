@@ -1,0 +1,11 @@
+[package]
+name = "chronos_engine"
+version = "1.0.0"
+edition = "2021"
+description = "Zero-dependency Rust horological math kernel for OddClock custom day-division and frequency-locked clocks."
+license = "MIT"
+repository = "https://github.com/oddclock/oddclock"
+
+[lib]
+name = "chronos_engine"
+path = "src/engine/chronos_engine.rs"
